@@ -238,7 +238,7 @@ namespace CGM2SVG
 
             try
             {
-                //document.Load((XmlReader)reader);
+                document.Load((XmlReader)reader);
             }
             finally
             {
