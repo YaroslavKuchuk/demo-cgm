@@ -233,12 +233,19 @@ namespace CGM2SVG
             nsMgr.AddNamespace("qsvg", "http://www.docsoft.com/qsvg");
             XmlParserContext context = new XmlParserContext(null, nsMgr, "", XmlSpace.Default);
             XmlTextReader reader = new XmlTextReader(this.@ref.mystream, XmlNodeType.Document, context);
-            
-            var lines = Encoding.ASCII.GetString(@ref.mystream.ToArray());
+
+            var lines = "<svg xmlns:qsvg='http://www.docsoft.com/qsvg' xmlns:xlink='http://www.w3.org/1999/xlink'>";
+
+            lines += Encoding.ASCII.GetString(@ref.mystream.ToArray());
+            lines += @"</g></g>";
+
+            lines += "</svg>";
+
+            File.WriteAllLines(@"D:\xml.xml", new string[] { lines } );
 
             try
             {
-                document.Load((XmlReader)reader);
+                document.Load(@"D:\xml.xml");
             }
             finally
             {
