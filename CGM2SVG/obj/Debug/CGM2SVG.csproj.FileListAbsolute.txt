@@ -1,0 +1,37 @@
+C:\Users\Serg\documents\visual studio 2015\Projects\CGMViewer\CGM2SVG\obj\Debug\CGM2SVG.csprojResolveAssemblyReference.cache
+C:\Users\Serg\Documents\Visual Studio 2015\Projects\CGMViewer\CGM2SVG\obj\Debug\CGM2SVG.csproj.CoreCompileInputs.cache
+C:\Users\Serg\Documents\Visual Studio 2015\Projects\CGMViewer\CGM2SVG\bin\Debug\CGM2SVG.dll
+C:\Users\Serg\Documents\Visual Studio 2015\Projects\CGMViewer\CGM2SVG\bin\Debug\CGM2SVG.pdb
+C:\Users\Serg\Documents\Visual Studio 2015\Projects\CGMViewer\CGM2SVG\bin\Debug\CGM.Scanner.dll
+C:\Users\Serg\Documents\Visual Studio 2015\Projects\CGMViewer\CGM2SVG\bin\Debug\CGM.Scanner.pdb
+C:\Users\Serg\Documents\Visual Studio 2015\Projects\CGMViewer\CGM2SVG\obj\Debug\CGM2SVG.dll
+C:\Users\Serg\Documents\Visual Studio 2015\Projects\CGMViewer\CGM2SVG\obj\Debug\CGM2SVG.pdb
+Z:\Projects\synaxiom\CGMViewer\CGM2SVG\bin\Debug\CGM2SVG.dll
+Z:\Projects\synaxiom\CGMViewer\CGM2SVG\bin\Debug\CGM2SVG.pdb
+Z:\Projects\synaxiom\CGMViewer\CGM2SVG\bin\Debug\CGM.Scanner.dll
+Z:\Projects\synaxiom\CGMViewer\CGM2SVG\bin\Debug\CGM.Scanner.pdb
+Z:\Projects\synaxiom\CGMViewer\CGM2SVG\obj\Debug\CGM2SVG.csprojResolveAssemblyReference.cache
+Z:\Projects\synaxiom\CGMViewer\CGM2SVG\obj\Debug\CGM2SVG.dll
+Z:\Projects\synaxiom\CGMViewer\CGM2SVG\obj\Debug\CGM2SVG.pdb
+D:\Projects\cgm\cgm\CGMViewer\CGM2SVG\bin\Debug\CGM2SVG.dll
+D:\Projects\cgm\cgm\CGMViewer\CGM2SVG\bin\Debug\CGM2SVG.pdb
+D:\Projects\cgm\cgm\CGMViewer\CGM2SVG\bin\Debug\CGM.Scanner.dll
+D:\Projects\cgm\cgm\CGMViewer\CGM2SVG\bin\Debug\CGM.Scanner.pdb
+D:\Projects\cgm\cgm\CGMViewer\CGM2SVG\obj\Debug\CGM2SVG.csprojAssemblyReference.cache
+D:\Projects\cgm\cgm\CGMViewer\CGM2SVG\obj\Debug\CGM2SVG.csproj.CoreCompileInputs.cache
+D:\Projects\cgm\cgm\CGMViewer\CGM2SVG\obj\Debug\CGM2SVG.csproj.CopyComplete
+D:\Projects\cgm\cgm\CGMViewer\CGM2SVG\obj\Debug\CGM2SVG.dll
+D:\Projects\cgm\cgm\CGMViewer\CGM2SVG\obj\Debug\CGM2SVG.pdb
+D:\Projects\Synaxiom\Old\Old%20converter\CGM2SVG\obj\Debug\CGM2SVG.csprojAssemblyReference.cache
+D:\Projects\Synaxiom\Old\Old%20converter\CGM2SVG\obj\Debug\CGM2SVG.csproj.CoreCompileInputs.cache
+D:\Projects\Synaxiom\Old\Old%20converter\CGM2SVG\obj\Debug\CGM2SVG.dll
+D:\Projects\Synaxiom\Old\Old%20converter\CGM2SVG\obj\Debug\CGM2SVG.pdb
+D:\Projects\Synaxiom\Demo\Demo\CGM2SVG\bin\Debug\CGM2SVG.dll
+D:\Projects\Synaxiom\Demo\Demo\CGM2SVG\bin\Debug\CGM2SVG.pdb
+D:\Projects\Synaxiom\Demo\Demo\CGM2SVG\bin\Debug\CGM.Scanner.dll
+D:\Projects\Synaxiom\Demo\Demo\CGM2SVG\bin\Debug\CGM.Scanner.pdb
+D:\Projects\Synaxiom\Demo\Demo\CGM2SVG\obj\Debug\CGM2SVG.csprojAssemblyReference.cache
+D:\Projects\Synaxiom\Demo\Demo\CGM2SVG\obj\Debug\CGM2SVG.csproj.CoreCompileInputs.cache
+D:\Projects\Synaxiom\Demo\Demo\CGM2SVG\obj\Debug\CGM2SVG.csproj.CopyComplete
+D:\Projects\Synaxiom\Demo\Demo\CGM2SVG\obj\Debug\CGM2SVG.dll
+D:\Projects\Synaxiom\Demo\Demo\CGM2SVG\obj\Debug\CGM2SVG.pdb

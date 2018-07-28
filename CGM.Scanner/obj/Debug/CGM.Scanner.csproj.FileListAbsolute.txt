@@ -1,0 +1,17 @@
+C:\Users\Serg\documents\visual studio 2015\Projects\CGMViewer\CGM.Scanner\obj\Debug\CGM.Scanner.csprojResolveAssemblyReference.cache
+C:\Users\Serg\documents\visual studio 2015\Projects\CGMViewer\CGM.Scanner\bin\Debug\CGM.Scanner.dll
+C:\Users\Serg\documents\visual studio 2015\Projects\CGMViewer\CGM.Scanner\bin\Debug\CGM.Scanner.pdb
+C:\Users\Serg\documents\visual studio 2015\Projects\CGMViewer\CGM.Scanner\obj\Debug\CGM.Scanner.dll
+C:\Users\Serg\documents\visual studio 2015\Projects\CGMViewer\CGM.Scanner\obj\Debug\CGM.Scanner.pdb
+C:\Users\Serg\Documents\Visual Studio 2015\Projects\CGMViewer\CGM.Scanner\obj\Debug\CGM.Scanner.csproj.CoreCompileInputs.cache
+Z:\Projects\synaxiom\CGMViewer\CGM.Scanner\bin\Debug\CGM.Scanner.dll
+Z:\Projects\synaxiom\CGMViewer\CGM.Scanner\bin\Debug\CGM.Scanner.pdb
+Z:\Projects\synaxiom\CGMViewer\CGM.Scanner\obj\Debug\CGM.Scanner.csprojResolveAssemblyReference.cache
+Z:\Projects\synaxiom\CGMViewer\CGM.Scanner\obj\Debug\CGM.Scanner.dll
+Z:\Projects\synaxiom\CGMViewer\CGM.Scanner\obj\Debug\CGM.Scanner.pdb
+D:\Projects\cgm\cgm\CGMViewer\CGM.Scanner\bin\Debug\CGM.Scanner.dll
+D:\Projects\cgm\cgm\CGMViewer\CGM.Scanner\bin\Debug\CGM.Scanner.pdb
+D:\Projects\cgm\cgm\CGMViewer\CGM.Scanner\obj\Debug\CGM.Scanner.csprojAssemblyReference.cache
+D:\Projects\cgm\cgm\CGMViewer\CGM.Scanner\obj\Debug\CGM.Scanner.csproj.CoreCompileInputs.cache
+D:\Projects\cgm\cgm\CGMViewer\CGM.Scanner\obj\Debug\CGM.Scanner.dll
+D:\Projects\cgm\cgm\CGMViewer\CGM.Scanner\obj\Debug\CGM.Scanner.pdb
