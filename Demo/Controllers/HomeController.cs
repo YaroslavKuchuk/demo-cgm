@@ -16,7 +16,7 @@ namespace Demo.Controllers
             var xml = cgmContex.GetSVGString();
             ViewBag.Title = "Home Page";
 
-            return View();
+            return View(xml);
         }
 
         public ActionResult About()
