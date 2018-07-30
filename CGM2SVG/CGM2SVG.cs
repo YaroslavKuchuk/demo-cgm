@@ -241,7 +241,7 @@ namespace CGM2SVG
 
             lines += "</svg>";
 
-            File.WriteAllLines(@"D:\xml.xml", new string[] { lines } );
+            File.WriteAllLines(@"D:\xml.svg", new string[] { lines } );
 
             try
             {
